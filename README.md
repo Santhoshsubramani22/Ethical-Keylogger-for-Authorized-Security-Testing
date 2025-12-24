@@ -123,29 +123,6 @@ This project helps learners understand:
 
 ---
 
-## 🔍 Limitations by Design
-
-To prevent misuse, this tool **does NOT** include:
-
-* Stealth or obfuscation techniques
-* Persistence mechanisms
-* Network data exfiltration
-* Privilege escalation
-
-These exclusions are intentional and align with ethical security practices.
-
----
-
-## 📚 Related Topics
-
-* Malware Analysis
-* Endpoint Detection & Response (EDR)
-* Ethical Hacking Principles
-* Secure Software Design
-* Cyber Law & Digital Ethics
-
----
-
 ## 📜 License
 
 This project is provided for **educational and research purposes only**.
@@ -160,5 +137,3 @@ Use responsibly. Always obtain permission.
 > This project exists to help defenders learn how attackers think — not to become one.
 
 ```
-
----
